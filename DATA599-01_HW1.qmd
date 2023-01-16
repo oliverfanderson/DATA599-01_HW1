@@ -1,7 +1,9 @@
 ---
 title: "Communication with Data Homework 1"
 author: "Oliver Anderson and CorDarryl Hall"
-format: html
+format:
+  html:
+    embed-resources: true
 editor: visual
 ---
 
